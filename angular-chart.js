@@ -26,13 +26,13 @@
   Chart.defaults.global.elements.rectangle.borderWidth = 2;
   Chart.defaults.global.legend.display = false;
   Chart.defaults.global.colors = [
-    '#97BBCD', // blue
-    '#DCDCDC', // light grey
-    '#F7464A', // red
-    '#46BFBD', // green
-    '#FDB45C', // yellow
-    '#949FB1', // grey
-    '#4D5360'  // dark grey
+    '#23A3DD', // blue
+    '#878787', // light grey
+    '#E43B53', // red
+    '#b8cd08', // green
+    '#fec900', // yellow
+    '#00426B', // dark blue
+    '#67c1be'  // turquoise
   ];
 
   var useExcanvas = typeof window.G_vmlCanvasManager === 'object' &&
